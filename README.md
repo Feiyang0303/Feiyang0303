@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Feiyang Xu
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Software+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=4A90E2&center=true&vCenter=true&width=435&lines=Software+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -72,20 +72,20 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Feiyang0303&show_icons=true&theme=radical&hide_border=true&bg_color=4A90E2,FFB6C1&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Feiyang0303&theme=radical&hide_border=true&background=4A90E2,FFB6C1&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Feiyang0303&show_icons=true&theme=radical&hide_border=true&bg_color=4A90E2&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Feiyang0303&theme=radical&hide_border=true&background=4A90E2&stroke=FFFFFF&ring=FFFFFF&fire=FFB6C1&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
 </div>
 
 ## 🏆 Top Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feiyang0303&layout=compact&theme=radical&hide_border=true&bg_color=4A90E2,FFB6C1&title_color=FFFFFF&text_color=FFFFFF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feiyang0303&layout=compact&theme=radical&hide_border=true&bg_color=4A90E2&title_color=FFFFFF&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Feiyang0303&bg_color=4A90E2,FFB6C1&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Feiyang0303&bg_color=4A90E2&color=FFFFFF&line=FFFFFF&point=FFB6C1&area_color=FFB6C1&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
 </div>
 
 ## 🎯 Current Focus
@@ -113,7 +113,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Feiyang0303&style=flat-square&color=FFFFFF" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Feiyang0303&style=flat-square&color=4A90E2" alt="Profile Views" />
   
   *Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on something exciting! 🚀*
 </div>
