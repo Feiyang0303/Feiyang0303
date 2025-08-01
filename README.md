@@ -38,6 +38,35 @@
 
 </div>
 
+## 📊 Skill Proficiency
+
+### Languages
+<div align="center">
+  
+![Python](https://img.shields.io/badge/Python-90%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-85%25-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-80%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-75%25-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-85%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-90%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML/CSS](https://img.shields.io/badge/HTML/CSS-95%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-80%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+### Frameworks & Tools
+<div align="center">
+  
+![React](https://img.shields.io/badge/React-85%25-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-75%25-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-80%25-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-70%25-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-75%25-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-85%25-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-90%25-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-80%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-75%25-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
 </div>
 
 ## 📊 GitHub Stats
@@ -53,17 +82,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feiyang0303&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=2D3748&text_color=4A5568" alt="Top Languages" />
 </div>
 
-## 🚀 Featured Projects
-
-<div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Feiyang0303&repo=Diary&theme=default&hide_border=true&bg_color=ffffff&title_color=2D3748&text_color=4A5568)](https://github.com/Feiyang0303/Diary)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Feiyang0303&repo=ScaryBirds&theme=default&hide_border=true&bg_color=ffffff&title_color=2D3748&text_color=4A5568)](https://github.com/Feiyang0303/ScaryBirds)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Feiyang0303&repo=website&theme=default&hide_border=true&bg_color=ffffff&title_color=2D3748&text_color=4A5568)](https://github.com/Feiyang0303/website)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Feiyang0303&repo=audionovel&theme=default&hide_border=true&bg_color=ffffff&title_color=2D3748&text_color=4A5568)](https://github.com/Feiyang0303/audionovel)
-
-</div>
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -72,11 +90,11 @@
 
 ## 🎯 Current Focus
 
-- [ ] Building innovative web applications
-- [ ] Contributing to open-source projects
-- [ ] Exploring game development with Unity/ShaderLab
-- [ ] Learning advanced web technologies
-- [ ] Creating meaningful software solutions
+- [ ] **AI/ML** - Exploring machine learning algorithms and AI applications
+- [ ] **Full-Stack Development** - Building end-to-end web applications
+- [ ] **UI/UX Design** - Creating intuitive and beautiful user interfaces
+- [ ] **Generative AI** - Working with cutting-edge AI technologies
+- [ ] **Creating meaningful software solutions**
 
 ## 📫 Let's Connect!
 
@@ -84,7 +102,7 @@
   <a href="https://fxu0303.ca/">
     <img src="https://img.shields.io/badge/-Personal%20Website-2D3748?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website" />
   </a>
-  <a href="mailto:contact@fxu0303.ca">
+  <a href="mailto:f82xu@uwaterloo.ca">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Feiyang0303">
