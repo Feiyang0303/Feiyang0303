@@ -11,32 +11,37 @@
             max-width: 800px;
             margin: 0 auto;
             padding: 20px;
-            background-color: #ffffff;
-            color: #2D3748;
+            background: linear-gradient(135deg, #4A90E2 0%, #FFB6C1 100%);
+            color: #FFFFFF;
+            min-height: 100vh;
         }
         .container {
-            background-color: #ffffff;
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
             padding: 30px;
-            border-radius: 10px;
-            border: 1px solid #E2E8F0;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+            border-radius: 15px;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
         }
         h1 {
-            color: #2D3748;
+            color: #FFFFFF;
             text-align: center;
             font-size: 2.5em;
             margin-bottom: 20px;
             font-weight: 600;
+            text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
         }
         h2 {
-            color: #2D3748;
-            border-bottom: 2px solid #E2E8F0;
+            color: #FFFFFF;
+            border-bottom: 2px solid rgba(255, 255, 255, 0.3);
             padding-bottom: 10px;
             font-weight: 600;
+            text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
         }
         h3 {
-            color: #4A5568;
+            color: #FFFFFF;
             font-weight: 500;
+            text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
         }
         .badge {
             display: inline-block;
@@ -64,18 +69,19 @@
         }
         .stats img {
             border-radius: 8px;
-            border: 1px solid #E2E8F0;
+            border: 1px solid rgba(255, 255, 255, 0.2);
         }
         .goals {
-            background-color: #F7FAFC;
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(5px);
             padding: 20px;
             border-radius: 8px;
             margin: 20px 0;
-            border-left: 4px solid #2D3748;
+            border-left: 4px solid #FFFFFF;
         }
         .goals li {
             margin: 10px 0;
-            color: #4A5568;
+            color: #FFFFFF;
         }
         .social-links {
             display: flex;
@@ -87,32 +93,33 @@
         .typing-animation {
             text-align: center;
             font-size: 1.2em;
-            color: #2D3748;
+            color: #FFFFFF;
             margin: 20px 0;
             font-family: 'Fira Code', monospace;
             font-weight: 500;
+            text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
         }
         a {
-            color: #2D3748;
+            color: #FFFFFF;
             text-decoration: none;
             border-bottom: 1px solid transparent;
             transition: border-color 0.2s ease;
         }
         a:hover {
-            border-bottom-color: #2D3748;
+            border-bottom-color: #FFFFFF;
         }
         ul {
-            color: #4A5568;
+            color: #FFFFFF;
         }
         strong {
-            color: #2D3748;
+            color: #FFFFFF;
         }
         .intro-bullets {
             margin-bottom: 20px;
         }
         .intro-bullets li {
             margin: 8px 0;
-            color: #4A5568;
+            color: #FFFFFF;
         }
         .skill-section {
             margin: 30px 0;
@@ -124,43 +131,50 @@
             margin: 20px 0;
         }
         .skill-item {
-            background-color: #F7FAFC;
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(5px);
             padding: 15px;
             border-radius: 8px;
-            border: 1px solid #E2E8F0;
+            border: 1px solid rgba(255, 255, 255, 0.2);
             text-align: center;
             transition: all 0.2s ease;
         }
         .skill-item:hover {
             transform: translateY(-2px);
-            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+            background: rgba(255, 255, 255, 0.2);
         }
         .skill-name {
             font-weight: 600;
-            color: #2D3748;
+            color: #FFFFFF;
             margin-bottom: 8px;
+            text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
         }
         .skill-level {
             font-size: 0.9em;
-            color: #4A5568;
+            color: #FFFFFF;
+            opacity: 0.9;
         }
         .stats-card {
-            background-color: #F7FAFC;
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(5px);
             padding: 20px;
             border-radius: 8px;
-            border: 1px solid #E2E8F0;
+            border: 1px solid rgba(255, 255, 255, 0.2);
             min-width: 300px;
             text-align: center;
         }
         .stats-number {
             font-size: 2em;
             font-weight: bold;
-            color: #2D3748;
+            color: #FFFFFF;
             margin: 10px 0;
+            text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
         }
         .stats-label {
-            color: #4A5568;
+            color: #FFFFFF;
             font-size: 0.9em;
+            opacity: 0.9;
         }
     </style>
 </head>
@@ -288,7 +302,7 @@
         <h2>📊 GitHub Stats</h2>
         <div class="stats">
             <div class="stats-card">
-                <h3 style="color: #2D3748; margin-top: 0;">GitHub Statistics</h3>
+                <h3 style="color: #FFFFFF; margin-top: 0;">GitHub Statistics</h3>
                 <div class="stats-number">9</div>
                 <div class="stats-label">Repositories</div>
                 <div class="stats-number">0</div>
@@ -297,13 +311,22 @@
                 <div class="stats-label">Followers</div>
             </div>
             <div class="stats-card">
-                <h3 style="color: #2D3748; margin-top: 0;">Contribution Streak</h3>
+                <h3 style="color: #FFFFFF; margin-top: 0;">Contribution Streak</h3>
                 <div class="stats-number">🔥</div>
                 <div class="stats-label">Current Streak</div>
                 <div class="stats-number">📅</div>
                 <div class="stats-label">Daily Contributions</div>
                 <div class="stats-number">⭐</div>
                 <div class="stats-label">Total Contributions</div>
+            </div>
+        </div>
+
+        <h2>📈 Contribution Graph</h2>
+        <div class="center">
+            <div style="background: rgba(255, 255, 255, 0.1); backdrop-filter: blur(5px); padding: 20px; border-radius: 8px; border: 1px solid rgba(255, 255, 255, 0.2); margin: 20px 0;">
+                <h3 style="color: #FFFFFF; margin-top: 0;">GitHub Activity Graph</h3>
+                <p style="color: #FFFFFF;">Your contribution graph will appear here showing your daily commit activity over time.</p>
+                <p style="color: #FFFFFF;">This will display your actual GitHub contribution data when committed.</p>
             </div>
         </div>
 
@@ -320,15 +343,15 @@
 
         <h2>📫 Let's Connect!</h2>
         <div class="social-links">
-            <a href="https://fxu0303.ca/" class="badge" style="background-color: #2D3748; color: white;">Personal Website</a>
+            <a href="https://fxu0303.ca/" class="badge" style="background-color: #4A90E2; color: white;">Personal Website</a>
             <a href="mailto:f82xu@uwaterloo.ca" class="badge" style="background-color: #D14836; color: white;">Email</a>
             <a href="https://github.com/Feiyang0303" class="badge" style="background-color: #181717; color: white;">GitHub</a>
         </div>
 
-        <hr style="border-color: #E2E8F0; margin: 30px 0;">
+        <hr style="border-color: rgba(255, 255, 255, 0.3); margin: 30px 0;">
 
         <div class="center">
-            <p><em>Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on something exciting! 🚀</em></p>
+            <p><em style="color: #FFFFFF;">Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on something exciting! 🚀</em></p>
         </div>
     </div>
 </body>
