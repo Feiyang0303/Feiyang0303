@@ -6,28 +6,34 @@
 
 ## 🚀 About Me
 
-- I am a Computer Science student at the University of Waterloo with a strong interest in full-stack development
-- I enjoy working across both frontend and backend systems
+- I am a Computer Science student at the University of Waterloo with a strong interest in full-stack development and fintech
+- I enjoy working across both frontend and backend systems, as well as building AI-powered tools
 - I'm passionate about building thoughtful, user-focused applications that solve meaningful problems
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
+### Languages
 <div align="center">
   
-### Languages & Frameworks
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Racket](https://img.shields.io/badge/-Racket-9E0028?style=for-the-badge&logo=racket&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Frameworks & Tools
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+</div>
+
+### Frameworks & Database
+<div align="center">
+  
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Expo](https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
@@ -38,42 +44,11 @@
 
 </div>
 
-## 📊 Skill Proficiency
-
-### Languages
-<div align="center">
-  
-![Python](https://img.shields.io/badge/Python-90%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-85%25-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-80%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-75%25-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-85%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-90%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML/CSS](https://img.shields.io/badge/HTML/CSS-95%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-80%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
-### Frameworks & Tools
-<div align="center">
-  
-![React](https://img.shields.io/badge/React-85%25-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React%20Native-75%25-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-80%25-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-70%25-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-75%25-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-85%25-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-90%25-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-80%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-75%25-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</div>
-
 ## 📊 GitHub Stats & Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Feiyang0303&show_icons=true&theme=radical&hide_border=true&bg_color=4A90E2&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feiyang0303&layout=compact&theme=radical&hide_border=true&bg_color=4A90E2&title_color=FFFFFF&text_color=FFFFFF" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Feiyang0303&show_icons=true&theme=radical&hide_border=true&bg_color=4A90E2&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feiyang0303&layout=compact&theme=radical&hide_border=true&bg_color=4A90E2&title_color=FFFFFF&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
 ## 📈 Contribution Graph
