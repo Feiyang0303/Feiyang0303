@@ -69,51 +69,15 @@
 
 </div>
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Feiyang0303&show_icons=true&theme=radical&hide_border=true&bg_color=4A90E2&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Feiyang0303&theme=radical&hide_border=true&background=4A90E2&stroke=FFFFFF&ring=FFFFFF&fire=FFB6C1&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
-</div>
-
-## 🏆 Top Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feiyang0303&layout=compact&theme=radical&hide_border=true&bg_color=4A90E2&title_color=FFFFFF&text_color=FFFFFF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Feiyang0303&show_icons=true&theme=radical&hide_border=true&bg_color=4A90E2&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feiyang0303&layout=compact&theme=radical&hide_border=true&bg_color=4A90E2&title_color=FFFFFF&text_color=FFFFFF" alt="Top Languages" width="48%" />
 </div>
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Feiyang0303&bg_color=4A90E2&color=FFFFFF&line=FFFFFF&point=FFB6C1&area_color=FFB6C1&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
-</div>
-
-## 🎯 Current Focus
-
-- [ ] **AI/ML** - Exploring machine learning algorithms and AI applications
-- [ ] **Full-Stack Development** - Building end-to-end web applications
-- [ ] **UI/UX Design** - Creating intuitive and beautiful user interfaces
-- [ ] **Generative AI** - Working with cutting-edge AI technologies
-- [ ] **Creating meaningful software solutions**
-
-## 📫 Let's Connect!
-
-<div align="center">
-  <a href="https://fxu0303.ca/">
-    <img src="https://img.shields.io/badge/-Personal%20Website-4A90E2?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website" />
-  </a>
-  <a href="mailto:f82xu@uwaterloo.ca">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Feiyang0303">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Feiyang0303&style=flat-square&color=4A90E2" alt="Profile Views" />
-  
-  *Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on something exciting! 🚀*
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Feiyang0303&bg_color=4A90E2&color=FFFFFF&line=FFFFFF&point=FFB6C1&area_color=FFB6C1&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Activity Graph" />
 </div>
