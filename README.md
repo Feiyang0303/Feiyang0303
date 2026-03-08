@@ -47,9 +47,9 @@
 ## 📊 GitHub Stats & Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Feiyang0303&show_icons=true&theme=radical&hide_border=true&bg_color=4A90E2&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feiyang0303&layout=compact&theme=radical&hide_border=true&bg_color=4A90E2&title_color=FFFFFF&text_color=FFFFFF" alt="Top Languages" />
-</div>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Feiyang0303&show_icons=true&theme=radical&hide_border=true&bg_color=4A90E2&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Feiyang0303&layout=compact&theme=radical&hide_border=true&bg_color=4A90E2&title_color=FFFFFF&text_color=FFFFFF)
 
 ## 📈 Contribution Graph
 
