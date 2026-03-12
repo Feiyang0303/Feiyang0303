@@ -6,8 +6,7 @@
 
 ## 🚀 About Me
 
-- I am a Computer Science student at the University of Waterloo with a strong interest in full-stack development and fintech
-- I enjoy working across both frontend and backend systems, as well as building AI-powered tools
+- I am a Computer Science student at the University of Waterloo with a strong interest in full-stack development and AI/ML
 - I'm passionate about building thoughtful, user-focused applications that solve meaningful problems
 
 ## 🛠️ Tech Stack & Tools
@@ -44,15 +43,18 @@
 
 </div>
 
-## 📊 GitHub Stats & Languages
+## 📊 Top Languages
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Feiyang0303&show_icons=true&theme=radical&hide_border=true&bg_color=4A90E2&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Feiyang0303&layout=compact&theme=radical&hide_border=true&bg_color=4A90E2&title_color=FFFFFF&text_color=FFFFFF)
+
+</div>
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Feiyang0303&bg_color=4A90E2&color=FFFFFF&line=FFFFFF&point=FFB6C1&area_color=FFB6C1&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Activity Graph" />
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Feiyang0303&bg_color=4A90E2&color=FFFFFF&line=FFFFFF&point=FFB6C1&area_color=FFB6C1&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
+
 </div>
