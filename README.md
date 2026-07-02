@@ -6,8 +6,53 @@
 
 ## 🚀 About Me
 
-- I am a Computer Science student at the University of Waterloo with a strong interest in full-stack development and AI/ML
-- I'm passionate about building thoughtful, user-focused applications that solve meaningful problems
+- Computer Science student at the University of Waterloo focused on full-stack engineering, DevOps, and machine learning systems.
+
+### Experience
+
+**DevOps Engineering Intern** (May 2026 - Present)  
+**Xello Inc.** - Toronto, ON
+- Engineered Node.js organization-level GitHub webhook integrations to automate CI/CD pipeline triggers, accelerating staging delivery for an enterprise SaaS platform utilized by over 9 million active students and educators.
+- Communicated directly with cross-functional development and QA teams to troubleshoot complex backend regressions, improving dev-stage environment stability and streamlining the production release lifecycle.
+
+**Software Developer Intern (Part-Time)** (May 2026 - Present)  
+**Utility Automation Solutions** - Remote
+- Engineered robust fault-window detection algorithms in C# utilizing full-cycle DFT phasor magnitudes, adaptive baseline statistics, and aggregate rise logic to effectively analyze highly noisy grid recordings.
+
+
+**Undergraduate Research Assistant (ML Engineering)** (Feb 2026 - Present)  
+**University of Waterloo** (Supervisor: Prof. Justin Wan) - Waterloo, ON
+- Conducting ML engineering research on diffusion model watermark robustness and model-forensics reliability under real-world perturbation conditions.
+- Built reusable Python/PyTorch experimentation infrastructure and standardized evaluation protocols to improve reproducibility across iterative research cycles.
+- Collaborate with faculty supervision and research collaborators to design experiments, interpret outcomes, and prioritize follow-up investigations.
+- Author technical reports summarizing empirical metrics, identified watermarking vulnerabilities, and proposed mitigation directions for future study.
+
+### Projects
+
+**Diffusion Watermarking** | Python, PyTorch, NumPy, Computer Vision
+- Engineered a scalable evaluation framework to benchmark the cryptographic resilience of generative diffusion watermarks under destructive image compression and adversarial perturbation attacks.
+- Built optimized Fourier-domain computer vision pipelines to isolate latent spatial artifacts, improving Tree-Ring watermark detection rates by over 30%.
+- Implemented modular latent diffusion abstractions with zero-shot DDIM inversion to extract semantic latents without costly model fine-tuning.
+- Synthesized experiment telemetry into structured technical reports documenting evaluation metrics, structural weaknesses, and algorithmic mitigation proposals.
+
+**CapySpend** | React, TypeScript, Node.js, PostgreSQL, Plaid API, OpenAI
+- Engineered a robust financial data ingestion pipeline integrating the Plaid API with an Express backend, implementing secure webhook listeners to synchronize real-time banking telemetry and handle idempotent transaction updates.
+- Architected an optimized PostgreSQL relational schema enforcing strict ACID compliance across user ledgers, writing complex SQL window functions and time-series aggregations to power sub-second cash-flow dashboards.
+- Designed an agentic LLM co-pilot utilizing OpenAI's structured tool-calling API and strict system prompts to autonomously parse unstructured natural language into deterministic, structured JSON categorization schemas.
+- Built a highly responsive React/TypeScript single-page application (SPA), deploying custom routing guards and secure HttpOnly cookie-based JWT authentication layers to rigorously mitigate XSS vulnerabilities.
+
+**AudioNovel** | Python, Flask, MongoDB Atlas, Cohere, ElevenLabs
+- Built a scalable Flask REST API documented via OpenAPI specifications, integrating a companion React front-end utilizing secure cryptographically salted bcrypt user authentications.
+- Leveraged Cohere `embed-english-v3.0` models to index contextual dense vector embeddings inside MongoDB Atlas, backing an optimized k-NN semantic search API endpoint.
+- Designed a 10-stage asynchronous background queue processing architecture to ingest text uploads and synthesize multi-character narration files via ElevenLabs TTS API integrations.
+
+### Awards & Honors
+
+**University of Waterloo Mathematics Global Scholarship** (Sep 2025)
+- Awarded the Faculty of Mathematics' most prestigious global merit scholarship, granted to a select group of incoming undergraduate students demonstrating exceptional competition outcomes, extracurricular achievements, and academic excellence.
+
+**Euclid Mathematics Contest - Honorable Mention** (Apr 2024)
+- Ranked top 10 nationwide in Canada among tens of thousands of competitors, demonstrating advanced problem-solving and mathematical proficiency.
 
 ## 🛠️ Tech Stack & Tools
 
