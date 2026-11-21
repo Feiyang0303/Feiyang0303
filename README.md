@@ -13,28 +13,6 @@ I'm a **Computer Science student at the University of Waterloo**, interested in 
 - 🧭 I enjoy building end-to-end products that combine **LLMs, backend systems, and interactive 3D experiences**.
 
 
-## 💼 Experience
-
-### Undergraduate Research Assistant · University of Waterloo
-*Feb 2026 – Present · Supervisor: Prof. Justin Wan*
-
-- **Neural option pricing:** Investigating BSDE-based neural solvers for American option pricing and hedging under multi-asset dynamics, including implied-volatility-surface inputs.
-- **Diffusion watermarking:** Implemented Tree-Ring and WatermarkDM with Fourier-space watermarking and DDIM inversion; evaluated robustness to image distortions using Python and PyTorch.
-
-### DevOps Engineering Intern · Xello Inc.
-*May 2026 – Sep 2026 · Toronto, ON*
-
-- Built **Node.js/GitHub webhook integrations** to automate CI/CD triggers for an education platform serving millions of students.
-- Implemented **blue-green deployments** with Octopus Deploy and standardized pre-release versioning across backend services.
-- Collaborated with development and QA teams to troubleshoot backend regressions and improve staging reliability.
-
-### Software Developer Intern (Part-Time) · Utility Automation Solutions
-*May 2026 – Sep 2026 · Remote*
-
-- Built **C# fault-detection and phasor-analysis workflows** for noisy electrical-grid recordings.
-- Developed impedance-analysis tools using Takagi loop calculations, R–X trajectories, and line-parameter tuning.
-- Integrated fault detection, signal-quality warnings, and interactive waveform inspection into a **WPF desktop application**.
-
 ## ✨ Featured Projects
 
 ### 🧭 Orion · Hack the North 2026
